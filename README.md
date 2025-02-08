@@ -1,4 +1,4 @@
-# My Resume
+# Resume README
 This repository contains my professional resume, created using markdown format. It's designed to be easily readable, customizable, and suitable for a variety of job applications, particularly in the field of computer science and technology.
 
 ## Purpose
