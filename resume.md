@@ -1,6 +1,6 @@
 # Callum Rann
 
-📧 callumrann@gmail.com | 🔗 [Github](https://github.com/xurgepog) | 📞 +61 403 677 434
+📧 callumrann@gmail.com | 🔗 [Github](https://github.com/callumrann) | 📞 +61 403 677 434
 
 ## Objective
 Motivated Computer Science student seeking internship opportunities to apply programming and problem-solving skills in a real-world environment.
